@@ -1,0 +1,29 @@
+{
+  "prompts": [
+    {
+      "id": "sample-1",
+      "title": "User Interview Question Generator",
+      "category": "UX Design",
+      "description": "Generate better interview questions for a user research study.",
+      "promptText": "Act as a senior UX researcher. Create 12 open-ended interview questions for [product area] aimed at discovering usability pain points.",
+      "tags": ["ux", "research", "interview"],
+      "createdAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "sample-2",
+      "title": "Landing Page Copy Draft",
+      "category": "Marketing",
+      "description": "Write conversion-focused copy for a SaaS landing page.",
+      "promptText": "You are a SaaS copywriter. Draft hero section, three benefits, and one CTA for [product], targeting [audience].",
+      "tags": ["copywriting", "saas", "conversion"],
+      "createdAt": "2026-01-02T09:00:00.000Z"
+    }
+  ],
+  "categories": [
+    "UX Design",
+    "Development",
+    "Marketing",
+    "Research",
+    "AI Tools"
+  ]
+}
